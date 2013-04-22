@@ -1,0 +1,23 @@
+{
+  "name": "bsdiff",
+  "version": "0.0.0",
+  "description": "binary diff using bsdiff and bspatch. binaries included for windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/curasystems/node-bsdiff.git"
+  },
+  "keywords": [
+    "bsdiff",
+    "bspatch",
+    "binary-diff",
+    "diff"
+  ],
+  "author": "Matthias Goetzke",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "6f3887f738afcc6670483a1c1d3b959ae398399c"
+}
