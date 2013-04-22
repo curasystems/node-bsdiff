@@ -1,6 +1,6 @@
 {
   "name": "bsdiff",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "binary diff using bsdiff and bspatch. binaries included for windows",
   "main": "index.js",
   "scripts": {
