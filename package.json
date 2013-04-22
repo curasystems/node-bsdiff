@@ -1,5 +1,5 @@
 {
-  "name": "bsdiff",
+  "name": "bsdiff-bin",
   "version": "0.1.0",
   "description": "binary diff using bsdiff and bspatch. binaries included for windows",
   "main": "index.js",
